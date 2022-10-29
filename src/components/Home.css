@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid red;
+    margin: 10px;
+    align-items: center;
+}
+
+.card img{
+    border-radius: 50%;
+    height: 50px;
+}
+
+.card h6{
+    text-align: center;
+}
